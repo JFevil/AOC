@@ -25,4 +25,4 @@ def part2():
 			if part1(a,b) == 19690720:
 				return a*100+b
 
-print("Partie 1 :",part2())
+print("Partie 2 :",part2())
