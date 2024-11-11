@@ -44,4 +44,4 @@ if [ ! -f $destination ]; then
 	fi
 fi
 
-subl ./$annee/$day &
+subl ./$annee/$day
